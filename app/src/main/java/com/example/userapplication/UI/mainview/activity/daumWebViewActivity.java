@@ -80,7 +80,7 @@ public class daumWebViewActivity extends AppCompatActivity {
         daum_webView.setWebChromeClient(new WebChromeClient());
 
         // webview url load. php 파일 주소
-        daum_webView.loadUrl("http://ec2-3-34-156-73.ap-northeast-2.compute.amazonaws.com:3000/");
+        daum_webView.loadUrl("localhost:8080");
     }
 
 
