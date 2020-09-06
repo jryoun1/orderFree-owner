@@ -55,6 +55,7 @@ Util
 network
 |- RetrofitClient.java
 |- ServuceApi.java
+MyApp.java
 MyFireBaseMessagingService.java
 ```
 안드로이드 코드 구조는 간략하게 보면 UI, Util, network 폴더와 MyApp.java, MyFireBaseMessagingService.java 파일로 구성되어있다. <br>
