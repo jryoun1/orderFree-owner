@@ -79,6 +79,6 @@ MyFireBaseMessagingService.java
 
 -----
 아래의 링크를 통해 오더프리 서버와 유저용 애플리케이션의 코드 및 정보가 있는 페이지로 갈 수 있다. <br>
-[오더프리 서버](https://github.com/jryoun1/orderFree-server/blob/master/README.md) <br>
-[오더프리 유저용 애플리케이션]() <br>
+[오더프리 서버](https://github.com/jryoun1/orderFree-server) <br>
+[오더프리 유저용 애플리케이션](https://github.com/jryoun1/orderFree-user) <br>
 
